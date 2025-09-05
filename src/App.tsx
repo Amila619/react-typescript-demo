@@ -1,7 +1,9 @@
+import Heading from "./components/Heading";
+
 function App() {
   return (
     <>
-      <h1>Tyescricpt</h1>
+      <Heading>Hello</Heading>
     </>
   );
 }
